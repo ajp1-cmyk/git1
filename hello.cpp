@@ -4,4 +4,5 @@ int main()
 {
 
 cout<<"hello world ";
+cout<<endl<<"first program";
 }
